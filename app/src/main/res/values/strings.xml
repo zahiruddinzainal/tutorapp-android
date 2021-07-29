@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TutorApp</string>
+
+    <string-array name="Category">
+        <item><font fgcolor='#1d1d1d'>Register as tutor</font></item>
+        <item><font fgcolor='#1d1d1d'>Register as learner</font></item>
+    </string-array>
+
+
+</resources>
